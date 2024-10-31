@@ -1,0 +1,437 @@
+<Document doc_name="MILAN_MOTOR_RACES.txt">
+<token t_id="1" sentence="0" number="0">September</token>
+<token t_id="2" sentence="0" number="1">5</token>
+<token t_id="3" sentence="0" number="2">,</token>
+<token t_id="4" sentence="0" number="3">1922</token>
+<token t_id="5" sentence="1" number="4">MILAN</token>
+<token t_id="6" sentence="1" number="5">MOTOR</token>
+<token t_id="7" sentence="1" number="6">RACES</token>
+<token t_id="8" sentence="1" number="7">.</token>
+<token t_id="9" sentence="2" number="8">TRACK</token>
+<token t_id="10" sentence="2" number="9">AND</token>
+<token t_id="11" sentence="2" number="10">ROAD</token>
+<token t_id="12" sentence="2" number="11">COURSE</token>
+<token t_id="13" sentence="2" number="12">.</token>
+<token t_id="14" sentence="3" number="13">(</token>
+<token t_id="15" sentence="3" number="14">from</token>
+<token t_id="16" sentence="3" number="15">our</token>
+<token t_id="17" sentence="3" number="16">corresponent</token>
+<token t_id="18" sentence="3" number="17">.</token>
+<token t_id="19" sentence="3" number="18">)</token>
+<token t_id="20" sentence="4" number="19">MILAN</token>
+<token t_id="21" sentence="4" number="20">,</token>
+<token t_id="22" sentence="4" number="21">Sept.</token>
+<token t_id="23" sentence="4" number="22">3</token>
+<token t_id="24" sentence="4" number="23">.</token>
+<token t_id="25" sentence="5" number="24">-</token>
+<token t_id="26" sentence="5" number="25">Heavy</token>
+<token t_id="27" sentence="5" number="26">rainfall</token>
+<token t_id="28" sentence="5" number="27">did</token>
+<token t_id="29" sentence="5" number="28">not</token>
+<token t_id="30" sentence="5" number="29">prevent</token>
+<token t_id="31" sentence="5" number="30">thousands</token>
+<token t_id="32" sentence="5" number="31">of</token>
+<token t_id="33" sentence="5" number="32">people</token>
+<token t_id="34" sentence="5" number="33">from</token>
+<token t_id="35" sentence="5" number="34">crowding</token>
+<token t_id="36" sentence="5" number="35">to</token>
+<token t_id="37" sentence="5" number="36">the</token>
+<token t_id="38" sentence="5" number="37">new</token>
+<token t_id="39" sentence="5" number="38">Milan</token>
+<token t_id="40" sentence="5" number="39">motor</token>
+<token t_id="41" sentence="5" number="40">race</token>
+<token t_id="42" sentence="5" number="41">track</token>
+<token t_id="43" sentence="5" number="42">for</token>
+<token t_id="44" sentence="5" number="43">the</token>
+<token t_id="45" sentence="5" number="44">first</token>
+<token t_id="46" sentence="5" number="45">day</token>
+<token t_id="47" sentence="5" number="46">of</token>
+<token t_id="48" sentence="5" number="47">the</token>
+<token t_id="49" sentence="5" number="48">race</token>
+<token t_id="50" sentence="5" number="49">week</token>
+<token t_id="51" sentence="5" number="50">.</token>
+<token t_id="52" sentence="6" number="51">Signor</token>
+<token t_id="53" sentence="6" number="52">Facta</token>
+<token t_id="54" sentence="6" number="53">,</token>
+<token t_id="55" sentence="6" number="54">the</token>
+<token t_id="56" sentence="6" number="55">Prime</token>
+<token t_id="57" sentence="6" number="56">Minister</token>
+<token t_id="58" sentence="6" number="57">,</token>
+<token t_id="59" sentence="6" number="58">was</token>
+<token t_id="60" sentence="6" number="59">among</token>
+<token t_id="61" sentence="6" number="60">those</token>
+<token t_id="62" sentence="6" number="61">present</token>
+<token t_id="63" sentence="6" number="62">.</token>
+<token t_id="64" sentence="7" number="63">The</token>
+<token t_id="65" sentence="7" number="64">Milan</token>
+<token t_id="66" sentence="7" number="65">meeting</token>
+<token t_id="67" sentence="7" number="66">is</token>
+<token t_id="68" sentence="7" number="67">attracting</token>
+<token t_id="69" sentence="7" number="68">special</token>
+<token t_id="70" sentence="7" number="69">attention</token>
+<token t_id="71" sentence="7" number="70">because</token>
+<token t_id="72" sentence="7" number="71">of</token>
+<token t_id="73" sentence="7" number="72">the</token>
+<token t_id="74" sentence="7" number="73">new</token>
+<token t_id="75" sentence="7" number="74">course</token>
+<token t_id="76" sentence="7" number="75">,</token>
+<token t_id="77" sentence="7" number="76">which</token>
+<token t_id="78" sentence="7" number="77">presents</token>
+<token t_id="79" sentence="7" number="78">some</token>
+<token t_id="80" sentence="7" number="79">novel</token>
+<token t_id="81" sentence="7" number="80">and</token>
+<token t_id="82" sentence="7" number="81">interesting</token>
+<token t_id="83" sentence="7" number="82">features</token>
+<token t_id="84" sentence="7" number="83">.</token>
+<token t_id="85" sentence="8" number="84">It</token>
+<token t_id="86" sentence="8" number="85">has</token>
+<token t_id="87" sentence="8" number="86">been</token>
+<token t_id="88" sentence="8" number="87">constructed</token>
+<token t_id="89" sentence="8" number="88">in</token>
+<token t_id="90" sentence="8" number="89">the</token>
+<token t_id="91" sentence="8" number="90">Royal</token>
+<token t_id="92" sentence="8" number="91">Park</token>
+<token t_id="93" sentence="8" number="92">of</token>
+<token t_id="94" sentence="8" number="93">Monza</token>
+<token t_id="95" sentence="8" number="94">,</token>
+<token t_id="96" sentence="8" number="95">ten</token>
+<token t_id="97" sentence="8" number="96">miles</token>
+<token t_id="98" sentence="8" number="97">from</token>
+<token t_id="99" sentence="8" number="98">Milan</token>
+<token t_id="100" sentence="8" number="99">,</token>
+<token t_id="101" sentence="8" number="100">and</token>
+<token t_id="102" sentence="8" number="101">is</token>
+<token t_id="103" sentence="8" number="102">different</token>
+<token t_id="104" sentence="8" number="103">from</token>
+<token t_id="105" sentence="8" number="104">all</token>
+<token t_id="106" sentence="8" number="105">the</token>
+<token t_id="107" sentence="8" number="106">others</token>
+<token t_id="108" sentence="8" number="107">now</token>
+<token t_id="109" sentence="8" number="108">existing</token>
+<token t_id="110" sentence="8" number="109">.</token>
+<token t_id="111" sentence="9" number="110">The</token>
+<token t_id="112" sentence="9" number="111">course</token>
+<token t_id="113" sentence="9" number="112">covers</token>
+<token t_id="114" sentence="9" number="113">ten</token>
+<token t_id="115" sentence="9" number="114">kilometres</token>
+<token t_id="116" sentence="9" number="115">[</token>
+<token t_id="117" sentence="9" number="116">6.2</token>
+<token t_id="118" sentence="9" number="117">miles</token>
+<token t_id="119" sentence="9" number="118">]</token>
+<token t_id="120" sentence="9" number="119">,</token>
+<token t_id="121" sentence="9" number="120">of</token>
+<token t_id="122" sentence="9" number="121">which</token>
+<token t_id="123" sentence="9" number="122">4</token>
+<token t_id="124" sentence="9" number="123">½</token>
+<token t_id="125" sentence="9" number="124">kilometres</token>
+<token t_id="126" sentence="9" number="125">consist</token>
+<token t_id="127" sentence="9" number="126">of</token>
+<token t_id="128" sentence="9" number="127">a</token>
+<token t_id="129" sentence="9" number="128">track</token>
+<token t_id="130" sentence="9" number="129">and</token>
+<token t_id="131" sentence="9" number="130">the</token>
+<token t_id="132" sentence="9" number="131">rest</token>
+<token t_id="133" sentence="9" number="132">of</token>
+<token t_id="134" sentence="9" number="133">a</token>
+<token t_id="135" sentence="9" number="134">road</token>
+<token t_id="136" sentence="9" number="135">circuit</token>
+<token t_id="137" sentence="9" number="136">.</token>
+<token t_id="138" sentence="10" number="137">Hitherto</token>
+<token t_id="139" sentence="10" number="138">,</token>
+<token t_id="140" sentence="10" number="139">motor</token>
+<token t_id="141" sentence="10" number="140">races</token>
+<token t_id="142" sentence="10" number="141">have</token>
+<token t_id="143" sentence="10" number="142">been</token>
+<token t_id="144" sentence="10" number="143">run</token>
+<token t_id="145" sentence="10" number="144">either</token>
+<token t_id="146" sentence="10" number="145">on</token>
+<token t_id="147" sentence="10" number="146">open</token>
+<token t_id="148" sentence="10" number="147">road</token>
+<token t_id="149" sentence="10" number="148">circuits</token>
+<token t_id="150" sentence="10" number="149">adapted</token>
+<token t_id="151" sentence="10" number="150">for</token>
+<token t_id="152" sentence="10" number="151">the</token>
+<token t_id="153" sentence="10" number="152">occasion</token>
+<token t_id="154" sentence="10" number="153">,</token>
+<token t_id="155" sentence="10" number="154">as</token>
+<token t_id="156" sentence="10" number="155">in</token>
+<token t_id="157" sentence="10" number="156">Italy</token>
+<token t_id="158" sentence="10" number="157">and</token>
+<token t_id="159" sentence="10" number="158">France</token>
+<token t_id="160" sentence="10" number="159">,</token>
+<token t_id="161" sentence="10" number="160">or</token>
+<token t_id="162" sentence="10" number="161">on</token>
+<token t_id="163" sentence="10" number="162">closed</token>
+<token t_id="164" sentence="10" number="163">tracks</token>
+<token t_id="165" sentence="10" number="164">,</token>
+<token t_id="166" sentence="10" number="165">as</token>
+<token t_id="167" sentence="10" number="166">at</token>
+<token t_id="168" sentence="10" number="167">Brooklands</token>
+<token t_id="169" sentence="10" number="168">and</token>
+<token t_id="170" sentence="10" number="169">Indianapolis</token>
+<token t_id="171" sentence="10" number="170">.</token>
+<token t_id="172" sentence="11" number="171">The</token>
+<token t_id="173" sentence="11" number="172">Monza</token>
+<token t_id="174" sentence="11" number="173">track</token>
+<token t_id="175" sentence="11" number="174">combines</token>
+<token t_id="176" sentence="11" number="175">the</token>
+<token t_id="177" sentence="11" number="176">two</token>
+<token t_id="178" sentence="11" number="177">,</token>
+<token t_id="179" sentence="11" number="178">giving</token>
+<token t_id="180" sentence="11" number="179">greater</token>
+<token t_id="181" sentence="11" number="180">safety</token>
+<token t_id="182" sentence="11" number="181">and</token>
+<token t_id="183" sentence="11" number="182">at</token>
+<token t_id="184" sentence="11" number="183">the</token>
+<token t_id="185" sentence="11" number="184">same</token>
+<token t_id="186" sentence="11" number="185">time</token>
+<token t_id="187" sentence="11" number="186">the</token>
+<token t_id="188" sentence="11" number="187">possibility</token>
+<token t_id="189" sentence="11" number="188">of</token>
+<token t_id="190" sentence="11" number="189">reaching</token>
+<token t_id="191" sentence="11" number="190">high</token>
+<token t_id="192" sentence="11" number="191">speed</token>
+<token t_id="193" sentence="11" number="192">.</token>
+<token t_id="194" sentence="12" number="193">Cars</token>
+<token t_id="195" sentence="12" number="194">can</token>
+<token t_id="196" sentence="12" number="195">pass</token>
+<token t_id="197" sentence="12" number="196">from</token>
+<token t_id="198" sentence="12" number="197">the</token>
+<token t_id="199" sentence="12" number="198">track</token>
+<token t_id="200" sentence="12" number="199">to</token>
+<token t_id="201" sentence="12" number="200">the</token>
+<token t_id="202" sentence="12" number="201">road</token>
+<token t_id="203" sentence="12" number="202">circuit</token>
+<token t_id="204" sentence="12" number="203">and</token>
+<token t_id="205" sentence="12" number="204">cover</token>
+<token t_id="206" sentence="12" number="205">the</token>
+<token t_id="207" sentence="12" number="206">whole</token>
+<token t_id="208" sentence="12" number="207">ten</token>
+<token t_id="209" sentence="12" number="208">kilometres</token>
+<token t_id="210" sentence="12" number="209">without</token>
+<token t_id="211" sentence="12" number="210">interruption</token>
+<token t_id="212" sentence="12" number="211">.</token>
+<token t_id="213" sentence="13" number="212">Stands</token>
+<token t_id="214" sentence="13" number="213">with</token>
+<token t_id="215" sentence="13" number="214">accommodation</token>
+<token t_id="216" sentence="13" number="215">for</token>
+<token t_id="217" sentence="13" number="216">twenty</token>
+<token t_id="218" sentence="13" number="217">thousand</token>
+<token t_id="219" sentence="13" number="218">people</token>
+<token t_id="220" sentence="13" number="219">have</token>
+<token t_id="221" sentence="13" number="220">been</token>
+<token t_id="222" sentence="13" number="221">built</token>
+<token t_id="223" sentence="13" number="222">.</token>
+<token t_id="224" sentence="14" number="223">Five</token>
+<token t_id="225" sentence="14" number="224">nations</token>
+<token t_id="226" sentence="14" number="225">will</token>
+<token t_id="227" sentence="14" number="226">compete</token>
+<token t_id="228" sentence="14" number="227">on</token>
+<token t_id="229" sentence="14" number="228">the</token>
+<token t_id="230" sentence="14" number="229">circuit</token>
+<token t_id="231" sentence="14" number="230">on</token>
+<token t_id="232" sentence="14" number="231">December</token>
+<token t_id="233" sentence="14" number="232">10</token>
+<token t_id="234" sentence="14" number="233">for</token>
+<token t_id="235" sentence="14" number="234">the</token>
+<token t_id="236" sentence="14" number="235">Grand</token>
+<token t_id="237" sentence="14" number="236">Prix</token>
+<token t_id="238" sentence="14" number="237">of</token>
+<token t_id="239" sentence="14" number="238">the</token>
+<token t_id="240" sentence="14" number="239">Automobile</token>
+<token t_id="241" sentence="14" number="240">Club</token>
+<token t_id="242" sentence="14" number="241">of</token>
+<token t_id="243" sentence="14" number="242">Italy</token>
+<token t_id="244" sentence="14" number="243">:</token>
+<token t_id="245" sentence="14" number="244">England</token>
+<token t_id="246" sentence="14" number="245">,</token>
+<token t_id="247" sentence="14" number="246">with</token>
+<token t_id="248" sentence="14" number="247">three</token>
+<token t_id="249" sentence="14" number="248">Sunbeams</token>
+<token t_id="250" sentence="14" number="249">,</token>
+<token t_id="251" sentence="14" number="250">Italy</token>
+<token t_id="252" sentence="14" number="251">,</token>
+<token t_id="253" sentence="14" number="252">with</token>
+<token t_id="254" sentence="14" number="253">three</token>
+<token t_id="255" sentence="14" number="254">Fiats</token>
+<token t_id="256" sentence="14" number="255">and</token>
+<token t_id="257" sentence="14" number="256">three</token>
+<token t_id="258" sentence="14" number="257">Bianchis</token>
+<token t_id="259" sentence="14" number="258">,</token>
+<token t_id="260" sentence="14" number="259">France</token>
+<token t_id="261" sentence="14" number="260">,</token>
+<token t_id="262" sentence="14" number="261">with</token>
+<token t_id="263" sentence="14" number="262">four</token>
+<token t_id="264" sentence="14" number="263">Rolland-Pilains</token>
+<token t_id="265" sentence="14" number="264">,</token>
+<token t_id="266" sentence="14" number="265">three</token>
+<token t_id="267" sentence="14" number="266">Bugattis</token>
+<token t_id="268" sentence="14" number="267">,</token>
+<token t_id="269" sentence="14" number="268">and</token>
+<token t_id="270" sentence="14" number="269">one</token>
+<token t_id="271" sentence="14" number="270">Delage</token>
+<token t_id="272" sentence="14" number="271">,</token>
+<token t_id="273" sentence="14" number="272">Germany</token>
+<token t_id="274" sentence="14" number="273">,</token>
+<token t_id="275" sentence="14" number="274">with</token>
+<token t_id="276" sentence="14" number="275">three</token>
+<token t_id="277" sentence="14" number="276">Mercédès</token>
+<token t_id="278" sentence="14" number="277">,</token>
+<token t_id="279" sentence="14" number="278">four</token>
+<token t_id="280" sentence="14" number="279">Benzes</token>
+<token t_id="281" sentence="14" number="280">,</token>
+<token t_id="282" sentence="14" number="281">and</token>
+<token t_id="283" sentence="14" number="282">three</token>
+<token t_id="284" sentence="14" number="283">Heims</token>
+<token t_id="285" sentence="14" number="284">,</token>
+<token t_id="286" sentence="14" number="285">Austria</token>
+<token t_id="287" sentence="14" number="286">,</token>
+<token t_id="288" sentence="14" number="287">with</token>
+<token t_id="289" sentence="14" number="288">three</token>
+<token t_id="290" sentence="14" number="289">Austrian</token>
+<token t_id="291" sentence="14" number="290">Daimlers</token>
+<token t_id="292" sentence="14" number="291">.</token>
+<token t_id="293" sentence="15" number="292">The</token>
+<token t_id="294" sentence="15" number="293">Fiats</token>
+<token t_id="295" sentence="15" number="294">took</token>
+<token t_id="296" sentence="15" number="295">the</token>
+<token t_id="297" sentence="15" number="296">lead</token>
+<token t_id="298" sentence="15" number="297">in</token>
+<token t_id="299" sentence="15" number="298">to-day</token>
+<token t_id="300" sentence="15" number="299">'s</token>
+<token t_id="301" sentence="15" number="300">racing</token>
+<token t_id="302" sentence="15" number="301">.</token>
+<token t_id="303" sentence="16" number="302">Bordino</token>
+<token t_id="304" sentence="16" number="303">covered</token>
+<token t_id="305" sentence="16" number="304">600</token>
+<token t_id="306" sentence="16" number="305">kilometers</token>
+<token t_id="307" sentence="16" number="306">[</token>
+<token t_id="308" sentence="16" number="307">372.8</token>
+<token t_id="309" sentence="16" number="308">miles</token>
+<token t_id="310" sentence="16" number="309">]</token>
+<token t_id="311" sentence="16" number="310">in</token>
+<token t_id="312" sentence="16" number="311">4hrs</token>
+<token t_id="313" sentence="16" number="312">,</token>
+<token t_id="314" sentence="16" number="313">28min</token>
+<token t_id="315" sentence="16" number="314">.</token>
+<token t_id="316" sentence="16" number="315">32sec.</token>
+<token t_id="317" sentence="16" number="316">,</token>
+<token t_id="318" sentence="16" number="317">and</token>
+<token t_id="319" sentence="16" number="318">the</token>
+<token t_id="320" sentence="16" number="319">second</token>
+<token t_id="321" sentence="16" number="320">and</token>
+<token t_id="322" sentence="16" number="321">third</token>
+<token t_id="323" sentence="16" number="322">arrivals</token>
+<token t_id="324" sentence="16" number="323">in</token>
+<token t_id="325" sentence="16" number="324">that</token>
+<token t_id="326" sentence="16" number="325">race</token>
+<token t_id="327" sentence="16" number="326">were</token>
+<token t_id="328" sentence="16" number="327">both</token>
+<token t_id="329" sentence="16" number="328">Fiats</token>
+<token t_id="330" sentence="16" number="329">.</token>
+
+
+<Markables>
+<EVENT_MENTION m_id="1" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="ENTERTAINMENT-ART" tense="" polarity=""  >
+<token_anchor t_id="7"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="2" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="ENVIRONMENT" tense="" polarity=""  >
+<token_anchor t_id="27"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="3" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="GENERAL" tense="" polarity=""  >
+<token_anchor t_id="30"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="4" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="35"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="5" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="ENTERTAINMENT-ART" tense="" polarity=""  >
+<token_anchor t_id="41"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="6" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="ENTERTAINMENT-ART" tense="" polarity=""  >
+<token_anchor t_id="49"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="7" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="59"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="8" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SOCIAL" tense="" polarity=""  >
+<token_anchor t_id="66"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="9" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EMOTIONS-EVALUATIONS" tense="" polarity=""  >
+<token_anchor t_id="68"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="10" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="POSSESSION" tense="" polarity=""  >
+<token_anchor t_id="78"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="11" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="88"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="12" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EMOTIONS-EVALUATIONS" tense="" polarity=""  >
+<token_anchor t_id="102"/>
+<token_anchor t_id="103"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="13" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="109"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="14" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="113"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="15" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="GENERAL" tense="" polarity=""  >
+<token_anchor t_id="126"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="16" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="ENTERTAINMENT-ART" tense="" polarity=""  >
+<token_anchor t_id="141"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="17" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="ENTERTAINMENT-ART" tense="" polarity=""  >
+<token_anchor t_id="144"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="18" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="GENERAL" tense="" polarity=""  >
+<token_anchor t_id="150"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="19" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="GENERAL" tense="" polarity=""  >
+<token_anchor t_id="175"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="20" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="190"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="21" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="POSSESSION" tense="" polarity=""  >
+<token_anchor t_id="179"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="22" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="196"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="23" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="205"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="24" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="211"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="25" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="222"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="26" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="ENTERTAINMENT-ART" tense="" polarity=""  >
+<token_anchor t_id="227"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="27" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="ENTERTAINMENT-ART" tense="" polarity=""  >
+<token_anchor t_id="295"/>
+<token_anchor t_id="296"/>
+<token_anchor t_id="297"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="28" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="ENTERTAINMENT-ART" tense="" polarity=""  >
+<token_anchor t_id="301"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="29" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="304"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="30" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="ENTERTAINMENT-ART" tense="" polarity=""  >
+<token_anchor t_id="326"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="31" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="327"/>
+</EVENT_MENTION>
+
+
+</Markables>
+
+<Relations>
+</Relations>
+</Document>

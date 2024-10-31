@@ -1,0 +1,536 @@
+<Document doc_name="The_Latest_Murder.txt">
+<token t_id="1" sentence="0" number="0">September</token>
+<token t_id="2" sentence="0" number="1">12th</token>
+<token t_id="3" sentence="0" number="2">1889</token>
+<token t_id="4" sentence="1" number="3">The</token>
+<token t_id="5" sentence="1" number="4">Latest</token>
+<token t_id="6" sentence="1" number="5">Murder</token>
+<token t_id="7" sentence="2" number="6">It</token>
+<token t_id="8" sentence="2" number="7">was</token>
+<token t_id="9" sentence="2" number="8">probably</token>
+<token t_id="10" sentence="2" number="9">not</token>
+<token t_id="11" sentence="2" number="10">committed</token>
+<token t_id="12" sentence="2" number="11">by</token>
+<token t_id="13" sentence="2" number="12">"</token>
+<token t_id="14" sentence="2" number="13">Jack</token>
+<token t_id="15" sentence="2" number="14">the</token>
+<token t_id="16" sentence="2" number="15">Ripper</token>
+<token t_id="17" sentence="2" number="16">.</token>
+<token t_id="18" sentence="2" number="17">"</token>
+<token t_id="19" sentence="3" number="18">The</token>
+<token t_id="20" sentence="3" number="19">doctors</token>
+<token t_id="21" sentence="3" number="20">convinced</token>
+<token t_id="22" sentence="3" number="21">that</token>
+<token t_id="23" sentence="3" number="22">there</token>
+<token t_id="24" sentence="3" number="23">are</token>
+<token t_id="25" sentence="3" number="24">two</token>
+<token t_id="26" sentence="3" number="25">series</token>
+<token t_id="27" sentence="3" number="26">of</token>
+<token t_id="28" sentence="3" number="27">crimes</token>
+<token t_id="29" sentence="3" number="28">and</token>
+<token t_id="30" sentence="3" number="29">two</token>
+<token t_id="31" sentence="3" number="30">men</token>
+<token t_id="32" sentence="3" number="31">who</token>
+<token t_id="33" sentence="3" number="32">commit</token>
+<token t_id="34" sentence="3" number="33">them</token>
+<token t_id="35" sentence="3" number="34">-</token>
+<token t_id="36" sentence="3" number="35">One</token>
+<token t_id="37" sentence="3" number="36">a</token>
+<token t_id="38" sentence="3" number="37">more</token>
+<token t_id="39" sentence="3" number="38">skilful</token>
+<token t_id="40" sentence="3" number="39">dissector</token>
+<token t_id="41" sentence="3" number="40">than</token>
+<token t_id="42" sentence="3" number="41">the</token>
+<token t_id="43" sentence="3" number="42">other</token>
+<token t_id="44" sentence="3" number="43">-</token>
+<token t_id="45" sentence="3" number="44">another</token>
+<token t_id="46" sentence="3" number="45">compromise</token>
+<token t_id="47" sentence="3" number="46">rejected</token>
+<token t_id="48" sentence="3" number="47">.</token>
+<token t_id="49" sentence="4" number="48">London</token>
+<token t_id="50" sentence="4" number="49">,</token>
+<token t_id="51" sentence="4" number="50">Sept</token>
+<token t_id="52" sentence="4" number="51">11</token>
+<token t_id="53" sentence="4" number="52">-</token>
+<token t_id="54" sentence="4" number="53">Although</token>
+<token t_id="55" sentence="4" number="54">the</token>
+<token t_id="56" sentence="4" number="55">murder</token>
+<token t_id="57" sentence="4" number="56">discovered</token>
+<token t_id="58" sentence="4" number="57">early</token>
+<token t_id="59" sentence="4" number="58">yesterday</token>
+<token t_id="60" sentence="4" number="59">morning</token>
+<token t_id="61" sentence="4" number="60">in</token>
+<token t_id="62" sentence="4" number="61">the</token>
+<token t_id="63" sentence="4" number="62">Whitechapel</token>
+<token t_id="64" sentence="4" number="63">street</token>
+<token t_id="65" sentence="4" number="64">is</token>
+<token t_id="66" sentence="4" number="65">generally</token>
+<token t_id="67" sentence="4" number="66">spoken</token>
+<token t_id="68" sentence="4" number="67">of</token>
+<token t_id="69" sentence="4" number="68">as</token>
+<token t_id="70" sentence="4" number="69">the</token>
+<token t_id="71" sentence="4" number="70">mysterious</token>
+<token t_id="72" sentence="4" number="71">"</token>
+<token t_id="73" sentence="4" number="72">Jack</token>
+<token t_id="74" sentence="4" number="73">the</token>
+<token t_id="75" sentence="4" number="74">Ripper</token>
+<token t_id="76" sentence="4" number="75">"</token>
+<token t_id="77" sentence="4" number="76">,</token>
+<token t_id="78" sentence="4" number="77">a</token>
+<token t_id="79" sentence="4" number="78">close</token>
+<token t_id="80" sentence="4" number="79">examination</token>
+<token t_id="81" sentence="4" number="80">of</token>
+<token t_id="82" sentence="4" number="81">all</token>
+<token t_id="83" sentence="4" number="82">the</token>
+<token t_id="84" sentence="4" number="83">facts</token>
+<token t_id="85" sentence="4" number="84">leads</token>
+<token t_id="86" sentence="4" number="85">that</token>
+<token t_id="87" sentence="4" number="86">this</token>
+<token t_id="88" sentence="4" number="87">murder</token>
+<token t_id="89" sentence="4" number="88">is</token>
+<token t_id="90" sentence="4" number="89">not</token>
+<token t_id="91" sentence="4" number="90">of</token>
+<token t_id="92" sentence="4" number="91">the</token>
+<token t_id="93" sentence="4" number="92">ripper</token>
+<token t_id="94" sentence="4" number="93">series</token>
+<token t_id="95" sentence="4" number="94">.</token>
+<token t_id="96" sentence="5" number="95">The</token>
+<token t_id="97" sentence="5" number="96">police</token>
+<token t_id="98" sentence="5" number="97">and</token>
+<token t_id="99" sentence="5" number="98">the</token>
+<token t_id="100" sentence="5" number="99">medical</token>
+<token t_id="101" sentence="5" number="100">men</token>
+<token t_id="102" sentence="5" number="101">familiar</token>
+<token t_id="103" sentence="5" number="102">with</token>
+<token t_id="104" sentence="5" number="103">the</token>
+<token t_id="105" sentence="5" number="104">details</token>
+<token t_id="106" sentence="5" number="105">of</token>
+<token t_id="107" sentence="5" number="106">the</token>
+<token t_id="108" sentence="5" number="107">recent</token>
+<token t_id="109" sentence="5" number="108">London</token>
+<token t_id="110" sentence="5" number="109">horrors</token>
+<token t_id="111" sentence="5" number="110">of</token>
+<token t_id="112" sentence="5" number="111">this</token>
+<token t_id="113" sentence="5" number="112">class</token>
+<token t_id="114" sentence="5" number="113">say</token>
+<token t_id="115" sentence="5" number="114">that</token>
+<token t_id="116" sentence="5" number="115">this</token>
+<token t_id="117" sentence="5" number="116">murder</token>
+<token t_id="118" sentence="5" number="117">must</token>
+<token t_id="119" sentence="5" number="118">be</token>
+<token t_id="120" sentence="5" number="119">classified</token>
+<token t_id="121" sentence="5" number="120">with</token>
+<token t_id="122" sentence="5" number="121">those</token>
+<token t_id="123" sentence="5" number="122">known</token>
+<token t_id="124" sentence="5" number="123">as</token>
+<token t_id="125" sentence="5" number="124">the</token>
+<token t_id="126" sentence="5" number="125">embankment</token>
+<token t_id="127" sentence="5" number="126">murders</token>
+<token t_id="128" sentence="5" number="127">,</token>
+<token t_id="129" sentence="5" number="128">of</token>
+<token t_id="130" sentence="5" number="129">which</token>
+<token t_id="131" sentence="5" number="130">there</token>
+<token t_id="132" sentence="5" number="131">have</token>
+<token t_id="133" sentence="5" number="132">now</token>
+<token t_id="134" sentence="5" number="133">been</token>
+<token t_id="135" sentence="5" number="134">four</token>
+<token t_id="136" sentence="5" number="135">in</token>
+<token t_id="137" sentence="5" number="136">all</token>
+<token t_id="138" sentence="5" number="137">,</token>
+<token t_id="139" sentence="5" number="138">including</token>
+<token t_id="140" sentence="5" number="139">the</token>
+<token t_id="141" sentence="5" number="140">one</token>
+<token t_id="142" sentence="5" number="141">in</token>
+<token t_id="143" sentence="5" number="142">which</token>
+<token t_id="144" sentence="5" number="143">the</token>
+<token t_id="145" sentence="5" number="144">headless</token>
+<token t_id="146" sentence="5" number="145">body</token>
+<token t_id="147" sentence="5" number="146">of</token>
+<token t_id="148" sentence="5" number="147">the</token>
+<token t_id="149" sentence="5" number="148">victim</token>
+<token t_id="150" sentence="5" number="149">was</token>
+<token t_id="151" sentence="5" number="150">recently</token>
+<token t_id="152" sentence="5" number="151">discovered</token>
+<token t_id="153" sentence="5" number="152">in</token>
+<token t_id="154" sentence="5" number="153">Chelsea</token>
+<token t_id="155" sentence="5" number="154">,</token>
+<token t_id="156" sentence="5" number="155">and</token>
+<token t_id="157" sentence="5" number="156">of</token>
+<token t_id="158" sentence="5" number="157">which</token>
+<token t_id="159" sentence="5" number="158">the</token>
+<token t_id="160" sentence="5" number="159">head</token>
+<token t_id="161" sentence="5" number="160">has</token>
+<token t_id="162" sentence="5" number="161">never</token>
+<token t_id="163" sentence="5" number="162">been</token>
+<token t_id="164" sentence="5" number="163">found</token>
+<token t_id="165" sentence="5" number="164">.</token>
+<token t_id="166" sentence="6" number="165">Although</token>
+<token t_id="167" sentence="6" number="166">there</token>
+<token t_id="168" sentence="6" number="167">is</token>
+<token t_id="169" sentence="6" number="168">a</token>
+<token t_id="170" sentence="6" number="169">general</token>
+<token t_id="171" sentence="6" number="170">resemblance</token>
+<token t_id="172" sentence="6" number="171">between</token>
+<token t_id="173" sentence="6" number="172">the</token>
+<token t_id="174" sentence="6" number="173">horrible</token>
+<token t_id="175" sentence="6" number="174">work</token>
+<token t_id="176" sentence="6" number="175">of</token>
+<token t_id="177" sentence="6" number="176">the</token>
+<token t_id="178" sentence="6" number="177">two</token>
+<token t_id="179" sentence="6" number="178">murderers</token>
+<token t_id="180" sentence="6" number="179">,</token>
+<token t_id="181" sentence="6" number="180">both</token>
+<token t_id="182" sentence="6" number="181">taking</token>
+<token t_id="183" sentence="6" number="182">special</token>
+<token t_id="184" sentence="6" number="183">pains</token>
+<token t_id="185" sentence="6" number="184">to</token>
+<token t_id="186" sentence="6" number="185">mutilate</token>
+<token t_id="187" sentence="6" number="186">their</token>
+<token t_id="188" sentence="6" number="187">victims</token>
+<token t_id="189" sentence="6" number="188">and</token>
+<token t_id="190" sentence="6" number="189">to</token>
+<token t_id="191" sentence="6" number="190">carry</token>
+<token t_id="192" sentence="6" number="191">off</token>
+<token t_id="193" sentence="6" number="192">portions</token>
+<token t_id="194" sentence="6" number="193">of</token>
+<token t_id="195" sentence="6" number="194">the</token>
+<token t_id="196" sentence="6" number="195">bodies</token>
+<token t_id="197" sentence="6" number="196">,</token>
+<token t_id="198" sentence="6" number="197">each</token>
+<token t_id="199" sentence="6" number="198">carries</token>
+<token t_id="200" sentence="6" number="199">off</token>
+<token t_id="201" sentence="6" number="200">a</token>
+<token t_id="202" sentence="6" number="201">different</token>
+<token t_id="203" sentence="6" number="202">portion</token>
+<token t_id="204" sentence="6" number="203">.</token>
+<token t_id="205" sentence="7" number="204">Besides</token>
+<token t_id="206" sentence="7" number="205">this</token>
+<token t_id="207" sentence="7" number="206">there</token>
+<token t_id="208" sentence="7" number="207">are</token>
+<token t_id="209" sentence="7" number="208">other</token>
+<token t_id="210" sentence="7" number="209">evidences</token>
+<token t_id="211" sentence="7" number="210">of</token>
+<token t_id="212" sentence="7" number="211">difference</token>
+<token t_id="213" sentence="7" number="212">in</token>
+<token t_id="214" sentence="7" number="213">expertness</token>
+<token t_id="215" sentence="7" number="214">in</token>
+<token t_id="216" sentence="7" number="215">the</token>
+<token t_id="217" sentence="7" number="216">surgical</token>
+<token t_id="218" sentence="7" number="217">work</token>
+<token t_id="219" sentence="7" number="218">involved</token>
+<token t_id="220" sentence="7" number="219">in</token>
+<token t_id="221" sentence="7" number="220">all</token>
+<token t_id="222" sentence="7" number="221">the</token>
+<token t_id="223" sentence="7" number="222">mutilations</token>
+<token t_id="224" sentence="7" number="223">,</token>
+<token t_id="225" sentence="7" number="224">the</token>
+<token t_id="226" sentence="7" number="225">embankment</token>
+<token t_id="227" sentence="7" number="226">murderer</token>
+<token t_id="228" sentence="7" number="227">being</token>
+<token t_id="229" sentence="7" number="228">by</token>
+<token t_id="230" sentence="7" number="229">far</token>
+<token t_id="231" sentence="7" number="230">the</token>
+<token t_id="232" sentence="7" number="231">more</token>
+<token t_id="233" sentence="7" number="232">scientific</token>
+<token t_id="234" sentence="7" number="233">of</token>
+<token t_id="235" sentence="7" number="234">the</token>
+<token t_id="236" sentence="7" number="235">two</token>
+<token t_id="237" sentence="7" number="236">.</token>
+<token t_id="238" sentence="8" number="237">For</token>
+<token t_id="239" sentence="8" number="238">some</token>
+<token t_id="240" sentence="8" number="239">time</token>
+<token t_id="241" sentence="8" number="240">it</token>
+<token t_id="242" sentence="8" number="241">was</token>
+<token t_id="243" sentence="8" number="242">doubtful</token>
+<token t_id="244" sentence="8" number="243">whether</token>
+<token t_id="245" sentence="8" number="244">all</token>
+<token t_id="246" sentence="8" number="245">these</token>
+<token t_id="247" sentence="8" number="246">horrors</token>
+<token t_id="248" sentence="8" number="247">were</token>
+<token t_id="249" sentence="8" number="248">the</token>
+<token t_id="250" sentence="8" number="249">work</token>
+<token t_id="251" sentence="8" number="250">of</token>
+<token t_id="252" sentence="8" number="251">one</token>
+<token t_id="253" sentence="8" number="252">or</token>
+<token t_id="254" sentence="8" number="253">two</token>
+<token t_id="255" sentence="8" number="254">persons</token>
+<token t_id="256" sentence="8" number="255">,</token>
+<token t_id="257" sentence="8" number="256">but</token>
+<token t_id="258" sentence="8" number="257">this</token>
+<token t_id="259" sentence="8" number="258">last</token>
+<token t_id="260" sentence="8" number="259">murder</token>
+<token t_id="261" sentence="8" number="260">convinces</token>
+<token t_id="262" sentence="8" number="261">the</token>
+<token t_id="263" sentence="8" number="262">medical</token>
+<token t_id="264" sentence="8" number="263">men</token>
+<token t_id="265" sentence="8" number="264">that</token>
+<token t_id="266" sentence="8" number="265">there</token>
+<token t_id="267" sentence="8" number="266">are</token>
+<token t_id="268" sentence="8" number="267">two</token>
+<token t_id="269" sentence="8" number="268">entirely</token>
+<token t_id="270" sentence="8" number="269">distinct</token>
+<token t_id="271" sentence="8" number="270">sets</token>
+<token t_id="272" sentence="8" number="271">of</token>
+<token t_id="273" sentence="8" number="272">murders</token>
+<token t_id="274" sentence="8" number="273">and</token>
+<token t_id="275" sentence="8" number="274">two</token>
+<token t_id="276" sentence="8" number="275">different</token>
+<token t_id="277" sentence="8" number="276">men</token>
+<token t_id="278" sentence="8" number="277">responsible</token>
+<token t_id="279" sentence="8" number="278">for</token>
+<token t_id="280" sentence="8" number="279">them</token>
+<token t_id="281" sentence="8" number="280">.</token>
+<token t_id="282" sentence="9" number="281">It</token>
+<token t_id="283" sentence="9" number="282">is</token>
+<token t_id="284" sentence="9" number="283">believed</token>
+<token t_id="285" sentence="9" number="284">that</token>
+<token t_id="286" sentence="9" number="285">in</token>
+<token t_id="287" sentence="9" number="286">the</token>
+<token t_id="288" sentence="9" number="287">present</token>
+<token t_id="289" sentence="9" number="288">instance</token>
+<token t_id="290" sentence="9" number="289">the</token>
+<token t_id="291" sentence="9" number="290">body</token>
+<token t_id="292" sentence="9" number="291">was</token>
+<token t_id="293" sentence="9" number="292">purposely</token>
+<token t_id="294" sentence="9" number="293">brought</token>
+<token t_id="295" sentence="9" number="294">to</token>
+<token t_id="296" sentence="9" number="295">the</token>
+<token t_id="297" sentence="9" number="296">Whitechapel</token>
+<token t_id="298" sentence="9" number="297">district</token>
+<token t_id="299" sentence="9" number="298">to</token>
+<token t_id="300" sentence="9" number="299">throw</token>
+<token t_id="301" sentence="9" number="300">the</token>
+<token t_id="302" sentence="9" number="301">police</token>
+<token t_id="303" sentence="9" number="302">off</token>
+<token t_id="304" sentence="9" number="303">the</token>
+<token t_id="305" sentence="9" number="304">scent</token>
+<token t_id="306" sentence="9" number="305">by</token>
+<token t_id="307" sentence="9" number="306">inducing</token>
+<token t_id="308" sentence="9" number="307">the</token>
+<token t_id="309" sentence="9" number="308">belief</token>
+<token t_id="310" sentence="9" number="309">that</token>
+<token t_id="311" sentence="9" number="310">the</token>
+<token t_id="312" sentence="9" number="311">body</token>
+<token t_id="313" sentence="9" number="312">was</token>
+<token t_id="314" sentence="9" number="313">that</token>
+<token t_id="315" sentence="9" number="314">of</token>
+<token t_id="316" sentence="9" number="315">another</token>
+<token t_id="317" sentence="9" number="316">victim</token>
+<token t_id="318" sentence="9" number="317">of</token>
+<token t_id="319" sentence="9" number="318">Jack</token>
+<token t_id="320" sentence="9" number="319">the</token>
+<token t_id="321" sentence="9" number="320">Ripper</token>
+<token t_id="322" sentence="9" number="321">.</token>
+<token t_id="323" sentence="10" number="322">In</token>
+<token t_id="324" sentence="10" number="323">this</token>
+<token t_id="325" sentence="10" number="324">the</token>
+<token t_id="326" sentence="10" number="325">perpetrator</token>
+<token t_id="327" sentence="10" number="326">,</token>
+<token t_id="328" sentence="10" number="327">however</token>
+<token t_id="329" sentence="10" number="328">,</token>
+<token t_id="330" sentence="10" number="329">went</token>
+<token t_id="331" sentence="10" number="330">to</token>
+<token t_id="332" sentence="10" number="331">trouble</token>
+<token t_id="333" sentence="10" number="332">that</token>
+<token t_id="334" sentence="10" number="333">is</token>
+<token t_id="335" sentence="10" number="334">entirely</token>
+<token t_id="336" sentence="10" number="335">superfluous</token>
+<token t_id="337" sentence="10" number="336">for</token>
+<token t_id="338" sentence="10" number="337">the</token>
+<token t_id="339" sentence="10" number="338">police</token>
+<token t_id="340" sentence="10" number="339">are</token>
+<token t_id="341" sentence="10" number="340">as</token>
+<token t_id="342" sentence="10" number="341">much</token>
+<token t_id="343" sentence="10" number="342">in</token>
+<token t_id="344" sentence="10" number="343">the</token>
+<token t_id="345" sentence="10" number="344">fog</token>
+<token t_id="346" sentence="10" number="345">about</token>
+<token t_id="347" sentence="10" number="346">the</token>
+<token t_id="348" sentence="10" number="347">one</token>
+<token t_id="349" sentence="10" number="348">class</token>
+<token t_id="350" sentence="10" number="349">of</token>
+<token t_id="351" sentence="10" number="350">murders</token>
+<token t_id="352" sentence="10" number="351">as</token>
+<token t_id="353" sentence="10" number="352">the</token>
+<token t_id="354" sentence="10" number="353">other</token>
+<token t_id="355" sentence="10" number="354">.</token>
+
+
+<Markables>
+<EVENT_MENTION m_id="33" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="208"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="1" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="6"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="34" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="217"/>
+<token_anchor t_id="218"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="2" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="AUTHORITY-LAW" tense="" polarity=""  >
+<token_anchor t_id="11"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="35" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="228"/>
+<token_anchor t_id="229"/>
+<token_anchor t_id="230"/>
+<token_anchor t_id="231"/>
+<token_anchor t_id="232"/>
+<token_anchor t_id="233"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="3" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="21"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="36" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="242"/>
+<token_anchor t_id="243"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="4" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="24"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="37" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EMOTIONS-EVALUATIONS" tense="" polarity=""  >
+<token_anchor t_id="247"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="5" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="AUTHORITY-LAW" tense="" polarity=""  >
+<token_anchor t_id="28"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="38" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="GENERAL" tense="" polarity=""  >
+<token_anchor t_id="250"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="6" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="AUTHORITY-LAW" tense="" polarity=""  >
+<token_anchor t_id="33"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="39" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="260"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="7" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="46"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="40" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="261"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="8" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="COMMUNICATION" tense="" polarity=""  >
+<token_anchor t_id="47"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="41" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="267"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="9" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="56"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="42" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="273"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="10" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="GENERAL" tense="" polarity=""  >
+<token_anchor t_id="57"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="43" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="284"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="11" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="COMMUNICATION" tense="" polarity=""  >
+<token_anchor t_id="67"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="44" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="294"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="12" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="PHYSICAL SENSATIONS" tense="" polarity=""  >
+<token_anchor t_id="80"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="45" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="300"/>
+<token_anchor t_id="303"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="13" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="GENERAL" tense="" polarity=""  >
+<token_anchor t_id="84"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="46" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="307"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="14" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="85"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="47" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="309"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="15" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="88"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="48" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="313"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="16" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="89"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="49" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="351"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="17" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EMOTIONS-EVALUATIONS" tense="" polarity=""  >
+<token_anchor t_id="110"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="50" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="GENERAL" tense="" polarity=""  >
+<token_anchor t_id="330"/>
+<token_anchor t_id="331"/>
+<token_anchor t_id="332"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="18" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="COMMUNICATION" tense="" polarity=""  >
+<token_anchor t_id="114"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="51" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="340"/>
+<token_anchor t_id="343"/>
+<token_anchor t_id="344"/>
+<token_anchor t_id="345"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="19" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="117"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="20" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="120"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="21" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MENTAL" tense="" polarity=""  >
+<token_anchor t_id="123"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="22" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="127"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="23" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="MEASURE" tense="" polarity=""  >
+<token_anchor t_id="134"/>
+<token_anchor t_id="135"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="24" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="PHYSICAL SENSATIONS" tense="" polarity=""  >
+<token_anchor t_id="152"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="25" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="141"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="26" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="GENERAL" tense="" polarity=""  >
+<token_anchor t_id="164"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="27" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="EXISTENCE-CAUSATION" tense="" polarity=""  >
+<token_anchor t_id="168"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="28" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="TRADE-WORK" tense="" polarity=""  >
+<token_anchor t_id="175"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="29" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="LIFE-HEALTH" tense="" polarity=""  >
+<token_anchor t_id="186"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="30" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="GENERAL" tense="" polarity=""  >
+<token_anchor t_id="182"/>
+<token_anchor t_id="184"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="31" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="191"/>
+<token_anchor t_id="192"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="32" factuality="" modality="" pred="" pos="" aspect="" certainty="" comment="" class="SPACE-MOVEMENT" tense="" polarity=""  >
+<token_anchor t_id="199"/>
+<token_anchor t_id="200"/>
+</EVENT_MENTION>
+
+
+</Markables>
+
+<Relations>
+</Relations>
+</Document>
